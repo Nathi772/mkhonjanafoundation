@@ -1,0 +1,57 @@
+@import "tailwindcss";
+
+:root {
+  --background: #FFFFFF;
+  --foreground: #292929;
+  --brand-primary: #0B8B68;
+  --brand-secondary: #0D8A68;
+  --brand-accent: #0A8C68;
+}
+
+@theme inline {
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+
+  --color-brand: var(--brand-primary);
+  --color-brand-secondary: var(--brand-secondary);
+  --color-brand-accent: var(--brand-accent);
+
+  --font-sans: var(--font-inter);
+}
+
+/* Dark mode is disabled for this project as per background requirements, but keeping variables if needed later */
+@media (prefers-color-scheme: dark) {
+  :root {
+    /* Keeping it light-themed even in dark mode for brand consistency unless specified otherwise */
+    --background: #FFFFFF;
+    --foreground: #292929;
+  }
+}
+
+body {
+  background: var(--background);
+  color: var(--foreground);
+  font-family: var(--font-sans);
+  line-height: 1.6;
+}
+
+@layer base {
+  a {
+    color: var(--brand-primary);
+    transition: opacity 0.2s;
+  }
+
+  a:hover {
+    opacity: 0.8;
+  }
+
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
+    color: var(--foreground);
+    font-weight: 700;
+  }
+}
