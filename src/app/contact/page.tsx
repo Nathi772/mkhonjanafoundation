@@ -61,7 +61,7 @@ export default function ContactPage() {
                                 </div>
                                 <div>
                                     <h4 className="font-bold text-foreground text-lg">Our Location</h4>
-                                    <p className="text-foreground/70">Mkhonjana Community, KwaZulu-Natal, South Africa</p>
+                                    <p className="text-foreground/70">Mkhonjana Village, Enoch Mgijima Manucipality, Eastern Cape</p>
                                 </div>
                             </div>
                         </div>

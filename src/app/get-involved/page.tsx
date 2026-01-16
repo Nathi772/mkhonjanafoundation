@@ -15,7 +15,7 @@ export default function GetInvolvedPage() {
         },
         {
             title: "Partner With Us",
-            description: "Are you an NGO or business looking to make an impact in rural KZN? Let's build sustainable solutions together.",
+            description: "Are you an NGO or business looking to make an impact in the Eastern Cape? Let's build sustainable solutions together.",
             cta: "Discuss a Partnership",
             href: "/contact"
         },
@@ -51,8 +51,8 @@ export default function GetInvolvedPage() {
                         <Link
                             href={option.href}
                             className={`text-center py-4 rounded-xl font-bold transition-all ${option.primary
-                                    ? "bg-white text-brand hover:bg-zinc-100"
-                                    : "bg-brand/5 text-brand border border-brand/10 hover:bg-brand/10"
+                                ? "bg-white text-brand hover:bg-zinc-100"
+                                : "bg-brand/5 text-brand border border-brand/10 hover:bg-brand/10"
                                 }`}
                         >
                             {option.cta}

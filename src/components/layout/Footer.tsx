@@ -51,7 +51,7 @@ export default function Footer() {
                     </div>
                     <div className="pt-4 space-y-2">
                         <p className="text-xs">Physical Community Location:</p>
-                        <p className="text-sm text-white font-medium">Mkhonjana, KZN, South Africa</p>
+                        <p className="text-sm text-white font-medium">Mkhonjana Village, Enoch Mgijima Manucipality, Eastern Cape</p>
                     </div>
                 </div>
 
