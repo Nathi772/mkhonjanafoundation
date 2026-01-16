@@ -6,7 +6,7 @@ export default function DonatePage() {
     const faqs = [
         {
             question: "Is the foundation political?",
-            answer: "No. The Mkhonjana Foundation is strictly non-political and community-led. Our focus is entirely on social development, sports, and safety within the region."
+            answer: "No. The Mkhonjana Foundation is strictly non-political and community-led. Our focus is entirely on social development, sports, and safety within the village."
         },
         {
             question: "How are funds used?",
@@ -21,7 +21,7 @@ export default function DonatePage() {
                 <div className="max-w-3xl mx-auto text-center space-y-6">
                     <h1 className="text-4xl md:text-5xl font-bold text-foreground">Make a <span className="text-brand">Lasting Difference</span></h1>
                     <p className="text-xl text-foreground/80 leading-relaxed">
-                        Your contribution directly powers our community-led initiatives in the Mkhonjana region.
+                        Your contribution directly powers our community-led initiatives in the Mkhonjana Village.
                         We ensure every Rand is used with integrity and purpose.
                     </p>
                 </div>

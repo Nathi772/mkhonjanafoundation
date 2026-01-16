@@ -7,9 +7,9 @@ export default function OurWorkPage() {
     const pillars = [
         {
             title: "Sports & Recreation",
-            description: "Building character and discipline through regional football and netball leagues.",
+            description: "Building character and discipline through local football and netball leagues.",
             icon: "⚽",
-            details: ["Youth League", "Regional Tournaments", "Equipment Support"]
+            details: ["Youth League", "Local Tournaments", "Equipment Support"]
         },
         {
             title: "Crime Prevention",

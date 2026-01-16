@@ -10,7 +10,7 @@ const inter = Inter({
 export const metadata: Metadata = {
   metadataBase: new URL("https://mkhonjanafoundation.org.za"),
   title: "Mkhonjana Foundation | Rural-Rooted Community Empowerment",
-  description: "Dignified, community-led NGO focusing on sports, crime prevention, arts, and skills development in the Mkhonjana region.",
+  description: "Dignified, community-led NGO focusing on sports, crime prevention, arts, and skills development in the Mkhonjana Village.",
   icons: {
     icon: "/logo.png",
     apple: "/logo.png",

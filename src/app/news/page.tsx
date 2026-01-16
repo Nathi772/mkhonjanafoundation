@@ -16,7 +16,7 @@ export default function NewsPage() {
                 <div className="max-w-3xl mx-auto text-center space-y-4">
                     <h1 className="text-4xl md:text-5xl font-bold text-foreground">News & <span className="text-brand">Updates</span></h1>
                     <p className="text-xl text-foreground/70 leading-relaxed">
-                        Stories of impact, community progress, and announcements from the Mkhonjana region.
+                        Stories of impact, community progress, and announcements from the Mkhonjana Village.
                     </p>
                 </div>
             </section>

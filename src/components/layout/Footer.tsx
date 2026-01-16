@@ -23,7 +23,7 @@ export default function Footer() {
                         </span>
                     </Link>
                     <p className="text-sm leading-relaxed max-w-xs">
-                        Built on community. Guided by integrity. Rural-rooted, community-led development with dignity in the Mkhonjana region.
+                        Built on community. Guided by integrity. Rural-rooted, community-led development with dignity in the Mkhonjana Village.
                     </p>
                 </div>
 

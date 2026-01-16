@@ -11,7 +11,7 @@ export default function Home() {
             <span className="text-brand">Empowerment.</span>
           </h1>
           <p className="text-xl md:text-2xl text-foreground/70 max-w-2xl mx-auto leading-relaxed">
-            A rural-rooted NGO dedicated to the development of the Mkhonjana region through community-led initiatives.
+            A rural-rooted NGO dedicated to the development of the Mkhonjana Village through community-led initiatives.
           </p>
         </div>
 

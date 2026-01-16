@@ -4,7 +4,7 @@ export default function TrustBlock() {
     const pillars = [
         {
             title: "Community-led",
-            description: "Projects are identified and driven by the residents of the Mkhonjana region.",
+            description: "Projects are identified and driven by the residents of the Mkhonjana Village.",
         },
         {
             title: "Recognised Local Leadership",
